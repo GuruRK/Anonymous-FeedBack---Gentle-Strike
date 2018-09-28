@@ -1,0 +1,17 @@
+.Addlistcss {
+    background-color:  hsl(48, 100%, 67%) !important;
+  }
+  .ant-form {
+    width: 50% !important;
+    margin: 0 auto !important;
+    margin-top: 2em !important;
+  } 
+  h2 {
+     margin-top: 90px !important;
+    margin-right: 30px !important;
+    color: blue !important;
+  }
+  .dropzone{
+      margin: auto !important;
+  }
+  

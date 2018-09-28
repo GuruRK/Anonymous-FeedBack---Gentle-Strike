@@ -1,0 +1,18 @@
+.Applist {
+  background-color: black;
+}
+.profile-image {
+  border-radius: 50% !important;
+  width: 132px !important;
+  height: 132px !important;
+  margin-left: 55px !important;
+  margin-top: -15px !important;
+  margin-bottom: 14px !important;
+}
+.col-sm-4 {
+  margin-top: 23px !important;
+}
+
+.button-main{
+  color: aliceblue !important;
+}

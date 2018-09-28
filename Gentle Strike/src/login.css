@@ -1,0 +1,79 @@
+/* body{
+    font-family: 'Cinzel', serif!important;
+    background-color:black !important;
+    /* background-repeat: no-repeat!important;
+    background-size: cover!important; */
+ /* } */ 
+ 
+
+.Logincss{
+    
+    background: white;
+    height: "300px";
+    width: "300px";
+    top: "37px";
+  }
+#profilepic{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: relative;
+    top: -60px;
+    left: calc((350px - 120px) /2); 
+    margin-left: -226px;
+  
+}
+.profile-image{
+    /* padding: 20px 20px 20px 50px ; */
+    border-radius: 50%!important;
+    width: 132px!important;
+    height: 132px!important;
+    margin-bottom: 30px
+}
+h2{
+    text-align: center;
+    color: hsl(0, 0%, 96%) !important;
+    text-transform: uppercase;
+    font-size: 2em;
+    word-spacing: 5px;
+    margin-top: -44px;
+    text-shadow: -2px 2px 1px #0A84c6;
+    margin-top: 12px !important;
+}
+button{
+    width: calc(100% - 40px);
+    height: 30px;
+    display: block;
+    margin: auto;
+    color: white;
+    background-color: #0A84c6;
+    border: none;
+    border-radius: 8px;
+}
+#components-form-demo-normal-login .login-form {
+    max-width: 50%;
+  }
+  #components-form-demo-normal-login .login-form-forgot {
+    float: right;
+  }
+  #components-form-demo-normal-login .login-form-button {
+    width: 100%;
+  }
+  
+.login-form{
+    width: 25%;
+}
+.ant-form {
+    margin: auto!important;
+    margin-top: 300px!important; 
+    position: relative!important;
+    transform: translate(-50%,-50%)!important;
+    /* float: right!important; */
+    /* background-image: linear-gradient(27deg, #013a6b 50%, #004e95 50%)!important; */
+    box-shadow: 0.1px.6px rgba(0,.0,.0,.0.12 ,0.1px.4px regba(0,.0,.0,.0,.0.24));
+}
+.ant-checkbox + span {
+    padding-left: 8px;
+    padding-right: 8px;
+    color: #121111;
+}
